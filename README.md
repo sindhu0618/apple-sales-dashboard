@@ -4,7 +4,7 @@ An interactive **Apple Sales Dashboard** built using **Power BI** to analyze sal
 
 ## 📊 Dashboard Preview
 
-![Apple Sales Dashboard](images/apple-sales-dashboard.png)
+![Apple Sales Dashboard](apple-sales-dashboard.png)
 
 ## 🔍 Key Insights
 
