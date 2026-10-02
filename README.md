@@ -50,6 +50,6 @@ The objective of this project is to analyze Apple sales data and create an inter
 
 ## 👤 Author
 
-**Your Name**
+Lakshmi Sindhuja
 
 B.Sc Data Science
